@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e75b3353-df56-4759-b2b3-2be7d14baae5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Pangram.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/panagram.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/panagramtest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Hamming.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/hammingtest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/META-INF/kotlinexercises_main.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/META-INF/kotlinexercises_main.kotlin_module" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -26,36 +24,36 @@
     <session id="-503517604">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.19" value="1" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.19" value="2" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gradle" value="1" />
-          <entry key="kt" value="7" />
+          <entry key="kt" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Groovy" value="1" />
-          <entry key="Kotlin" value="7" />
+          <entry key="Kotlin" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gradle" value="20" />
-          <entry key="kt" value="1214" />
+          <entry key="kt" value="1442" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Groovy" value="20" />
-          <entry key="Kotlin" value="1214" />
+          <entry key="Kotlin" value="1442" />
         </counts>
       </usages-collector>
     </session>
@@ -74,7 +72,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/kotlin/TransciptTest.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
+            <state relative-caret-position="340">
               <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
               <folding>
                 <element signature="e#0#53#0" expanded="true" />
@@ -86,20 +84,38 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/Pangram.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
+            <state relative-caret-position="459">
               <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/kotlin/panagramtest.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+            <state relative-caret-position="412">
+              <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
               <folding>
                 <element signature="e#0#82#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/Hamming.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/kotlin/hammingtest.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -483,10 +499,12 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/panagram.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/Pangram.kt" />
         <option value="$PROJECT_DIR$/src/test/kotlin/panagramtest.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/Hamming.kt" />
+        <option value="$PROJECT_DIR$/src/test/kotlin/hammingtest.kt" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="1947" />
     <option name="height" value="1107" />
   </component>
@@ -527,6 +545,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
+            <path>
+              <item name="kotlinexercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KotlinExercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -536,7 +561,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548176574083" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548223225276" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -550,22 +575,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.panagramtest">
+  <component name="RunManager" selected="JUnit.hammingtest">
     <configuration name="TransciptTest.adenineComplementIsUracil" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="kotlinexercises_test" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TransciptTest" />
       <option name="METHOD_NAME" value="adenineComplementIsUracil" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TransciptTest.guanineComplementIsCytosine" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="kotlinexercises_test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TransciptTest" />
-      <option name="METHOD_NAME" value="guanineComplementIsCytosine" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -577,6 +592,14 @@
       <option name="MAIN_CLASS_NAME" value="TransciptTest" />
       <option name="METHOD_NAME" value="thymineComplementIsAdenine" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hammingtest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kotlinexercises_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="hammingtest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -603,19 +626,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.TransciptTest.guanineComplementIsCytosine" />
       <item itemvalue="JUnit.TransciptTest.thymineComplementIsAdenine" />
       <item itemvalue="JUnit.TransciptTest.adenineComplementIsUracil" />
       <item itemvalue="Kotlin.PanagramKt" />
       <item itemvalue="JUnit.panagramtest" />
+      <item itemvalue="JUnit.hammingtest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.hammingtest" />
         <item itemvalue="JUnit.panagramtest" />
         <item itemvalue="Kotlin.PanagramKt" />
         <item itemvalue="JUnit.TransciptTest.adenineComplementIsUracil" />
         <item itemvalue="JUnit.TransciptTest.thymineComplementIsAdenine" />
-        <item itemvalue="JUnit.TransciptTest.guanineComplementIsCytosine" />
       </list>
     </recent_temporary>
   </component>
@@ -651,12 +674,15 @@
     <history-entry file="TransciptTest_adenineComplementIsUracil - 2019.01.20 at 14h 24m 21s.xml">
       <configuration name="TransciptTest.adenineComplementIsUracil" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="panagramtest - 2019.01.22 at 22h 32m 48s.xml">
+      <configuration name="panagramtest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2242915" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22834007" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -665,7 +691,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3291815" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3291815" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -714,7 +740,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/kotlin/TransciptTest.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
+        <state relative-caret-position="340">
           <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
           <folding>
             <element signature="e#0#53#0" expanded="true" />
@@ -724,18 +750,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/Pangram.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
+        <state relative-caret-position="459">
           <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/kotlin/panagramtest.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        <state relative-caret-position="412">
+          <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
           <folding>
             <element signature="e#0#82#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Hamming.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/kotlin/hammingtest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
         </state>
       </provider>
     </entry>
