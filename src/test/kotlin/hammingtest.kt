@@ -21,4 +21,24 @@ class hammingtest {
     fun noDistanceBetweenShortIdenticalStrands() {
         assertEquals(0, hamming.compute("A", "A"))
     }
+
+    @Test
+    fun completeDistanceInSingleNucleotideStrand() {
+        assertEquals(1, hamming.compute("A", "G"))
+    }
+
+    @Test
+    fun completeDistanceInSmallStrand() {
+        assertEquals(2, hamming.compute("AG", "CT"))
+    }
+
+    @Test
+    fun smallDistanceInSmallStrand() {
+        assertEquals(1, hamming.compute("AT", "CT"))
+    }
+
+    @Test
+    fun smallDistanceInMediumStrand() {
+        assertEquals(1, hamming.compute("GGACG", "GGTCG"))
+    }
 }
