@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e75b3353-df56-4759-b2b3-2be7d14baae5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Gigasecond.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/gigasecondtest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -34,25 +36,25 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gradle" value="1" />
-          <entry key="kt" value="9" />
+          <entry key="kt" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Groovy" value="1" />
-          <entry key="Kotlin" value="9" />
+          <entry key="Kotlin" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gradle" value="20" />
-          <entry key="kt" value="1472" />
+          <entry key="kt" value="1789" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Groovy" value="20" />
-          <entry key="Kotlin" value="1472" />
+          <entry key="Kotlin" value="1789" />
         </counts>
       </usages-collector>
     </session>
@@ -60,63 +62,21 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/DNAtoRNA.kt">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/Gigasecond.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/kotlin/TransciptTest.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
-              <folding>
-                <element signature="e#0#53#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/Pangram.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/kotlin/panagramtest.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
-              <folding>
-                <element signature="e#0#82#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/Hamming.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="255">
+              <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/kotlin/hammingtest.kt">
+        <entry file="file://$PROJECT_DIR$/src/test/kotlin/gigasecondtest.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+            <state relative-caret-position="170">
+              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
               <folding>
-                <element signature="e#0#116#0" expanded="true" />
+                <element signature="e#0#85#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -501,8 +461,10 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/panagram.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/Pangram.kt" />
         <option value="$PROJECT_DIR$/src/test/kotlin/panagramtest.kt" />
-        <option value="$PROJECT_DIR$/src/test/kotlin/hammingtest.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/Hamming.kt" />
+        <option value="$PROJECT_DIR$/src/test/kotlin/hammingtest.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/Gigasecond.kt" />
+        <option value="$PROJECT_DIR$/src/test/kotlin/gigasecondtest.kt" />
       </list>
     </option>
   </component>
@@ -540,13 +502,6 @@
               <item name="kotlinexercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="KotlinExercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kotlinexercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KotlinExercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
@@ -563,7 +518,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548348584483" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548420097759" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -577,7 +532,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.hammingtest">
+  <component name="RunManager" selected="JUnit.gigasecondtest.modernTime">
     <configuration name="TransciptTest.adenineComplementIsUracil" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="kotlinexercises_test" />
       <option name="PACKAGE_NAME" value="" />
@@ -588,11 +543,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TransciptTest.thymineComplementIsAdenine" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="gigasecondtest.modernTime" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="kotlinexercises_test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TransciptTest" />
-      <option name="METHOD_NAME" value="thymineComplementIsAdenine" />
+      <option name="MAIN_CLASS_NAME" value="gigasecondtest" />
+      <option name="METHOD_NAME" value="modernTime" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -628,19 +583,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.TransciptTest.thymineComplementIsAdenine" />
       <item itemvalue="JUnit.TransciptTest.adenineComplementIsUracil" />
       <item itemvalue="Kotlin.PanagramKt" />
       <item itemvalue="JUnit.panagramtest" />
       <item itemvalue="JUnit.hammingtest" />
+      <item itemvalue="JUnit.gigasecondtest.modernTime" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.gigasecondtest.modernTime" />
         <item itemvalue="JUnit.hammingtest" />
         <item itemvalue="JUnit.panagramtest" />
         <item itemvalue="Kotlin.PanagramKt" />
         <item itemvalue="JUnit.TransciptTest.adenineComplementIsUracil" />
-        <item itemvalue="JUnit.TransciptTest.thymineComplementIsAdenine" />
       </list>
     </recent_temporary>
   </component>
@@ -779,10 +734,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/kotlin/hammingtest.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        <state relative-caret-position="225">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
           <folding>
             <element signature="e#0#116#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Gigasecond.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/kotlin/gigasecondtest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#85#0" expanded="true" />
           </folding>
         </state>
       </provider>
