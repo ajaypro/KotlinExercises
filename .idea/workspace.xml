@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e75b3353-df56-4759-b2b3-2be7d14baae5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Acronym.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/AcronymTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Scrabble.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/scrabbletest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/AcronymKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/AcronymKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/META-INF/kotlinexercises_main.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/META-INF/kotlinexercises_main.kotlin_module" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -24,40 +26,41 @@
     <session id="-503517604">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="10" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.19" value="2" />
           <entry key="project.open.time.20" value="2" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.32" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gradle" value="1" />
-          <entry key="kt" value="20" />
+          <entry key="kt" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Groovy" value="1" />
-          <entry key="Kotlin" value="20" />
+          <entry key="Kotlin" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gradle" value="20" />
-          <entry key="kt" value="2935" />
+          <entry key="kt" value="3611" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Groovy" value="20" />
-          <entry key="Kotlin" value="2935" />
+          <entry key="Kotlin" value="3611" />
         </counts>
       </usages-collector>
     </session>
@@ -86,7 +89,28 @@
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/spaceage/Planet.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/Scrabble.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/kotlin/scrabbletest.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#55#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -106,8 +130,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/kotlin/SpaceAgeTest.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="24" column="44" lean-forward="true" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+            <state relative-caret-position="374">
+              <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
               <folding>
                 <element signature="e#0#78#0" expanded="true" />
               </folding>
@@ -115,11 +139,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/Acronym.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="4" column="50" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+            <state relative-caret-position="221">
+              <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -127,7 +151,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/kotlin/AcronymTest.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
+            <state relative-caret-position="153">
               <caret line="11" selection-start-line="11" selection-end-line="11" />
               <folding>
                 <element signature="e#0#83#0" expanded="true" />
@@ -524,6 +548,8 @@
         <option value="$PROJECT_DIR$/src/test/kotlin/SpaceAgeTest.kt" />
         <option value="$PROJECT_DIR$/src/test/kotlin/AcronymTest.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/Acronym.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/Scrabble.kt" />
+        <option value="$PROJECT_DIR$/src/test/kotlin/scrabbletest.kt" />
       </list>
     </option>
   </component>
@@ -537,6 +563,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -566,6 +594,14 @@
               <item name="kotlinexercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="KotlinExercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="spaceage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kotlinexercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KotlinExercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
@@ -579,12 +615,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548786091556" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548871020034" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
@@ -599,7 +633,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AcronymTest.acronymTest">
+  <component name="RunManager" selected="JUnit.scrabbletest.cabbageTest">
     <configuration name="AcronymTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="kotlinexercises_test" />
       <option name="PACKAGE_NAME" value="" />
@@ -638,28 +672,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hammingtest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="scrabbletest.cabbageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="kotlinexercises_test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="hammingtest" />
+      <option name="MAIN_CLASS_NAME" value="scrabbletest" />
+      <option name="METHOD_NAME" value="cabbageTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.hammingtest" />
       <item itemvalue="JUnit.gigasecondtest.modernTime" />
       <item itemvalue="JUnit.SpaceAgeTest.ageInSeconds" />
       <item itemvalue="JUnit.AcronymTest" />
       <item itemvalue="JUnit.AcronymTest.acronymTest" />
+      <item itemvalue="JUnit.scrabbletest.cabbageTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.scrabbletest.cabbageTest" />
         <item itemvalue="JUnit.AcronymTest.acronymTest" />
         <item itemvalue="JUnit.AcronymTest" />
         <item itemvalue="JUnit.SpaceAgeTest.ageInSeconds" />
         <item itemvalue="JUnit.gigasecondtest.modernTime" />
-        <item itemvalue="JUnit.hammingtest" />
       </list>
     </recent_temporary>
   </component>
@@ -677,21 +713,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="hammingtest - 2019.01.23 at 11h 30m 45s.xml">
-      <configuration name="hammingtest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="gigasecondtest_modernTime - 2019.01.25 at 18h 10m 31s.xml">
-      <configuration name="gigasecondtest.modernTime" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="gigasecondtest_modernTime - 2019.01.25 at 18h 10m 59s.xml">
-      <configuration name="gigasecondtest.modernTime" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="gigasecondtest_modernTime - 2019.01.25 at 18h 11m 41s.xml">
-      <configuration name="gigasecondtest.modernTime" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SpaceAgeTest_ageInSeconds - 2019.01.27 at 22h 27m 08s.xml">
-      <configuration name="SpaceAgeTest.ageInSeconds" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="SpaceAgeTest_ageInSeconds - 2019.01.27 at 22h 28m 36s.xml">
       <configuration name="SpaceAgeTest.ageInSeconds" configurationId="JUnit" />
     </history-entry>
@@ -707,12 +728,27 @@
     <history-entry file="AcronymTest_acronymTest - 2019.01.29 at 23h 44m 57s.xml">
       <configuration name="AcronymTest.acronymTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="AcronymTest_acronymTest - 2019.01.29 at 23h 54m 25s.xml">
+      <configuration name="AcronymTest.acronymTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="scrabbletest_cabbageTest - 2019.01.30 at 23h 22m 41s.xml">
+      <configuration name="scrabbletest.cabbageTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="scrabbletest_cabbageTest - 2019.01.30 at 23h 23m 41s.xml">
+      <configuration name="scrabbletest.cabbageTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="scrabbletest_cabbageTest - 2019.01.30 at 23h 24m 38s.xml">
+      <configuration name="scrabbletest.cabbageTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="scrabbletest_cabbageTest - 2019.01.30 at 23h 25m 57s.xml">
+      <configuration name="scrabbletest.cabbageTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21052632" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21376519" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -721,8 +757,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3291815" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.48042706" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3291815" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.48042706" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -808,6 +844,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.11/e49742d3259938ea3539346c8ca3babb54a5140f/kotlin-stdlib-common-1.3.11-sources.jar!/generated/_Collections.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="1507" column="22" lean-forward="true" selection-start-line="1507" selection-start-column="22" selection-end-line="1507" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/kotlin/hammingtest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/Gigasecond.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -815,10 +865,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/spaceage/Planet.kt">
+    <entry file="file://$PROJECT_DIR$/src/test/kotlin/gigasecondtest.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        <state relative-caret-position="204">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -832,31 +882,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.11/e49742d3259938ea3539346c8ca3babb54a5140f/kotlin-stdlib-common-1.3.11-sources.jar!/generated/_Collections.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="1507" column="22" lean-forward="true" selection-start-line="1507" selection-start-column="22" selection-end-line="1507" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/kotlin/gigasecondtest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/kotlin/hammingtest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/kotlin/SpaceAgeTest.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="24" column="44" lean-forward="true" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+        <state relative-caret-position="374">
+          <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
           <folding>
             <element signature="e#0#78#0" expanded="true" />
           </folding>
@@ -865,7 +894,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/kotlin/AcronymTest.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="153">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="e#0#83#0" expanded="true" />
@@ -875,8 +904,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/Acronym.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="4" column="50" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+        <state relative-caret-position="221">
+          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/spaceage/Planet.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Scrabble.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/kotlin/scrabbletest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
