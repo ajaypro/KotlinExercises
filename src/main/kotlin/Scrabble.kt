@@ -2,7 +2,7 @@
  * @Author Ajay on 30-01-2019.
  */
 
-// Get scrabble score of a word 
+// Get scrabble score of a word
 fun getScrabble(word: String): Int = word.sumBy { it -> valueOf(it) }
 
 private fun valueOf(letter: Char): Int  =
