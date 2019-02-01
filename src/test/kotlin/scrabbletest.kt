@@ -1,3 +1,4 @@
+import org.junit.runner.RunWith
 import org.junit.runners.Parameterized
 import kotlin.test.Test
 import kotlin.test.assertEquals
@@ -5,6 +6,7 @@ import kotlin.test.assertEquals
 /**
  * @Author Ajay on 30-01-2019.
  */
+@RunWith(Parameterized::class)
 class scrabbletest(val input: String, val expectedOutput: Int) {
 
     companion object {
@@ -26,5 +28,9 @@ class scrabbletest(val input: String, val expectedOutput: Int) {
     fun cabbageTest() {
         assertEquals(16, getScrabble("cabbage"))
         println("${getScrabble("cabbage")}")
+    }
+    @Test
+    fun stringTest() {
+        assertEquals(13, getScrabble("I'm a pro developer"))
     }
 }
