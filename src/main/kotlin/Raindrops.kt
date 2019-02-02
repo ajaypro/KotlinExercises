@@ -10,3 +10,8 @@ fun rainsound(number: Int) : String =
             if(number % 7 == 0) append("Plong")
             if(length == 0) append(number)
         }
+
+fun main(args: Array<String>) {
+
+    println(rainsound(56))
+}

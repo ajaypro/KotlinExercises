@@ -26,11 +26,8 @@ class scrabbletest(val input: String, val expectedOutput: Int) {
 
     @Test
     fun cabbageTest() {
-        assertEquals(16, getScrabble("cabbage"))
-        println("${getScrabble("cabbage")}")
+        assertEquals(expectedOutput, getScrabble(input))
+
     }
-    @Test
-    fun stringTest() {
-        assertEquals(13, getScrabble("I'm a pro developer"))
-    }
+
 }
