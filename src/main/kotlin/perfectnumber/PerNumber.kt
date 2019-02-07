@@ -5,6 +5,16 @@ package perfectnumber
  */
 
 
+/**
+ * Determine if a number is perfect, abundant, or deficient based on Nicomachus' (60 - 120 CE)
+ * classification scheme for natural numbers.
+ *
+ * aliquot sum: s(n) of a positive integer n is the sum of all proper divisors of n, that is, all divisors of n other than n itself
+ * Perfect: aliquot sum = number
+ * Abundant: aliquot sum > number
+ * Deficient: aliquot sum < number
+ */
+
     enum class classification {
     DEFICIENT, PERFECT, ABUNDANT
 }
@@ -22,6 +32,10 @@ package perfectnumber
 
         }
     }
+
+/*
+ * Find all divisors of a natural number, n, including itself.
+ */
 
 fun Int.divisors() = (1..this).filter { this.isDivisorOf(this) }
 fun Int.perfectDivisors() = this.divisors()
