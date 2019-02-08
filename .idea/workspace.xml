@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e75b3353-df56-4759-b2b3-2be7d14baae5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/perfectnumber/PerNumber.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/PerNumberTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/SumofMultiples.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/sumofmultiplestest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/perfectnumber/PerNumber.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/perfectnumber/PerNumber.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -46,44 +47,32 @@
         <counts>
           <entry key="gradle" value="3" />
           <entry key="java" value="8" />
-          <entry key="kt" value="45" />
+          <entry key="kt" value="51" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Groovy" value="3" />
           <entry key="JAVA" value="8" />
-          <entry key="Kotlin" value="45" />
+          <entry key="Kotlin" value="51" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gradle" value="20" />
-          <entry key="kt" value="6264" />
+          <entry key="kt" value="7385" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Groovy" value="20" />
-          <entry key="Kotlin" value="6264" />
+          <entry key="Kotlin" value="7385" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/kotlin/scrabbletest.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
-              <folding>
-                <element signature="e#0#126#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/panagram.kt">
           <provider selected="true" editor-type-id="text-editor">
@@ -124,24 +113,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/secret/signal.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/secret/calculator.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="70" selection-start-line="22" selection-start-column="70" selection-end-line="22" selection-end-column="70" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/kotlin/SignalTest.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
@@ -156,17 +127,38 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/perfectnumber/PerNumber.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="27" column="51" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
+            <state relative-caret-position="207">
+              <caret line="40" column="55" lean-forward="true" selection-start-line="40" selection-start-column="55" selection-end-line="40" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/SumofMultiples.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/kotlin/sumofmultiplestest.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#53#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/kotlin/PerNumberTest.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+            <state relative-caret-position="160">
+              <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
               <folding>
                 <element signature="e#0#121#0" expanded="true" />
               </folding>
@@ -179,8 +171,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Enum" />
         <option value="Kotlin Object" />
+        <option value="Kotlin Enum" />
         <option value="Kotlin File" />
         <option value="Kotlin Class" />
       </list>
@@ -573,8 +565,13 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/secret/signal.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/secret/calculator.kt" />
         <option value="$PROJECT_DIR$/src/test/kotlin/SignalTest.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/perfectnumber/PerNumber.kt" />
         <option value="$PROJECT_DIR$/src/test/kotlin/PerNumberTest.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/perfectnumber/PerNumber1.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/perfectnumber/Discriminate.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/perfectnumber/discriminate.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/perfectnumber/PerNumber.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/SumofMultiples.kt" />
+        <option value="$PROJECT_DIR$/src/test/kotlin/sumofmultiplestest.kt" />
       </list>
     </option>
   </component>
@@ -635,7 +632,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549557109158" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549634767635" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
@@ -650,7 +647,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PerNumberTest">
+  <component name="RunManager" selected="JUnit.sumofmultiplestest">
     <configuration name="PerNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="kotlinexercises_test" />
       <option name="PACKAGE_NAME" value="" />
@@ -677,10 +674,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SquareTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="sumofmultiplestest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="kotlinexercises_test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SquareTest" />
+      <option name="MAIN_CLASS_NAME" value="sumofmultiplestest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -699,19 +696,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.SquareTest" />
       <item itemvalue="JUnit.SignalTest" />
       <item itemvalue="Kotlin.perfectnumber.PerNumberKt" />
       <item itemvalue="JUnit.PerNumberTest.naturalNumberTest" />
       <item itemvalue="JUnit.PerNumberTest" />
+      <item itemvalue="JUnit.sumofmultiplestest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.sumofmultiplestest" />
         <item itemvalue="JUnit.PerNumberTest" />
         <item itemvalue="JUnit.PerNumberTest.naturalNumberTest" />
         <item itemvalue="Kotlin.perfectnumber.PerNumberKt" />
         <item itemvalue="JUnit.SignalTest" />
-        <item itemvalue="JUnit.SquareTest" />
       </list>
     </recent_temporary>
   </component>
@@ -729,15 +726,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="raindroptest - 2019.02.03 at 04h 33m 08s.xml">
-      <configuration name="raindroptest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="raindroptest - 2019.02.03 at 04h 33m 59s.xml">
-      <configuration name="raindroptest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="raindroptest - 2019.02.03 at 04h 38m 14s.xml">
-      <configuration name="raindroptest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="raindroptest - 2019.02.03 at 04h 40m 14s.xml">
       <configuration name="raindroptest" configurationId="JUnit" />
     </history-entry>
@@ -759,12 +747,21 @@
     <history-entry file="SignalTest - 2019.02.06 at 21h 39m 57s.xml">
       <configuration name="SignalTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="PerNumberTest_naturalNumberTest - 2019.02.07 at 21h 59m 39s.xml">
+      <configuration name="PerNumberTest.naturalNumberTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PerNumberTest - 2019.02.07 at 22h 00m 07s.xml">
+      <configuration name="PerNumberTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="sumofmultiplestest - 2019.02.08 at 19h 33m 36s.xml">
+      <configuration name="sumofmultiplestest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21862349" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21862349" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -773,7 +770,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.41814947" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36476868" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.42882562" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1048,19 +1045,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/perfectnumber/PerNumber.kt">
+    <entry file="file://$PROJECT_DIR$/src/test/kotlin/PerNumberTest.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="27" column="51" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
+        <state relative-caret-position="160">
+          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#121#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/kotlin/PerNumberTest.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/perfectnumber/PerNumber1.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        <state relative-caret-position="119">
+          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/perfectnumber/discriminate.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="4" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/perfectnumber/PerNumber.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="40" column="55" lean-forward="true" selection-start-line="40" selection-start-column="55" selection-end-line="40" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/SumofMultiples.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/kotlin/sumofmultiplestest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
           <folding>
-            <element signature="e#0#121#0" expanded="true" />
+            <element signature="e#0#53#0" expanded="true" />
           </folding>
         </state>
       </provider>

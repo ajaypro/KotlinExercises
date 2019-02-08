@@ -28,8 +28,6 @@ package perfectnumber
             aquilotSum > num -> classification.ABUNDANT
             else ->
                 classification.DEFICIENT
-
-
         }
     }
 
