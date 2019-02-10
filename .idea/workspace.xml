@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e75b3353-df56-4759-b2b3-2be7d14baae5" name="Default Changelist" comment="" />
+    <list default="true" id="e75b3353-df56-4759-b2b3-2be7d14baae5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/SumofMultiples.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/SumofMultiples.kt" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -20,9 +22,10 @@
     <session id="-503517604">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="18" />
+          <entry key="project.closed" value="19" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.17" value="2" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.19" value="3" />
@@ -35,33 +38,33 @@
           <entry key="project.open.time.32" value="1" />
           <entry key="project.open.time.39" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="18" />
+          <entry key="project.opened" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gradle" value="3" />
-          <entry key="java" value="8" />
-          <entry key="kt" value="51" />
+          <entry key="java" value="9" />
+          <entry key="kt" value="52" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Groovy" value="3" />
-          <entry key="JAVA" value="8" />
-          <entry key="Kotlin" value="51" />
+          <entry key="JAVA" value="9" />
+          <entry key="Kotlin" value="52" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gradle" value="20" />
-          <entry key="kt" value="7385" />
+          <entry key="kt" value="7578" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Groovy" value="20" />
-          <entry key="Kotlin" value="7385" />
+          <entry key="Kotlin" value="7578" />
         </counts>
       </usages-collector>
     </session>
@@ -110,8 +113,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/kotlin/SignalTest.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+            <state relative-caret-position="51">
+              <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
               <folding>
                 <element signature="e#0#99#0" expanded="true" />
               </folding>
@@ -122,8 +125,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/perfectnumber/PerNumber.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="40" column="55" lean-forward="true" selection-start-line="40" selection-start-column="55" selection-end-line="40" selection-end-column="55" />
+            <state relative-caret-position="71">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
         </entry>
@@ -131,17 +134,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/SumofMultiples.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+            <state relative-caret-position="78">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/kotlin/sumofmultiplestest.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+            <state relative-caret-position="91">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="e#0#53#0" expanded="true" />
               </folding>
@@ -149,10 +152,19 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/Assert.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="98">
+              <caret line="110" selection-start-line="110" selection-end-line="110" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/kotlin/PerNumberTest.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
+            <state relative-caret-position="153">
               <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
               <folding>
                 <element signature="e#0#121#0" expanded="true" />
@@ -565,8 +577,8 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/perfectnumber/Discriminate.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/perfectnumber/discriminate.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/perfectnumber/PerNumber.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/SumofMultiples.kt" />
         <option value="$PROJECT_DIR$/src/test/kotlin/sumofmultiplestest.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/SumofMultiples.kt" />
       </list>
     </option>
   </component>
@@ -580,8 +592,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -624,10 +634,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549730006134" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549730958999" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
@@ -721,12 +733,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="raindroptest - 2019.02.03 at 04h 40m 14s.xml">
-      <configuration name="raindroptest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="scrabbletest - 2019.02.03 at 04h 56m 46s.xml">
-      <configuration name="scrabbletest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="scrabbletest - 2019.02.03 at 04h 58m 05s.xml">
       <configuration name="scrabbletest" configurationId="JUnit" />
     </history-entry>
@@ -751,11 +757,17 @@
     <history-entry file="sumofmultiplestest - 2019.02.08 at 19h 33m 36s.xml">
       <configuration name="sumofmultiplestest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="sumofmultiplestest - 2019.02.09 at 22h 03m 59s.xml">
+      <configuration name="sumofmultiplestest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="sumofmultiplestest - 2019.02.09 at 22h 22m 46s.xml">
+      <configuration name="sumofmultiplestest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21862349" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22267206" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -787,6 +799,18 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/test/kotlin/sumofmultiplestest.kt</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/kotlin/TranscriptTest.kt" />
@@ -984,6 +1008,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/secret/signal.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/secret/calculator.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="70" selection-start-line="22" selection-start-column="70" selection-end-line="22" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/perfectnumber/PerNumber1.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/perfectnumber/discriminate.kt" />
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/panagram.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -1015,24 +1055,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/secret/signal.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/secret/calculator.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="70" selection-start-line="22" selection-start-column="70" selection-end-line="22" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/kotlin/SignalTest.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        <state relative-caret-position="51">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
           <folding>
             <element signature="e#0#99#0" expanded="true" />
           </folding>
@@ -1041,7 +1067,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/kotlin/PerNumberTest.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
+        <state relative-caret-position="153">
           <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
           <folding>
             <element signature="e#0#121#0" expanded="true" />
@@ -1049,41 +1075,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/perfectnumber/PerNumber1.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/perfectnumber/discriminate.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="4" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/perfectnumber/PerNumber.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="40" column="55" lean-forward="true" selection-start-line="40" selection-start-column="55" selection-end-line="40" selection-end-column="55" />
+        <state relative-caret-position="71">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/SumofMultiples.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        <state relative-caret-position="78">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/kotlin/sumofmultiplestest.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        <state relative-caret-position="91">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="e#0#53#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/Assert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="110" selection-start-line="110" selection-end-line="110" />
         </state>
       </provider>
     </entry>

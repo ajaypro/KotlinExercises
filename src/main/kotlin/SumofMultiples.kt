@@ -12,3 +12,27 @@ object sumOfMultiples {
 }
 
 fun Int.isMultipleOf(num: Int): Boolean = this%num == 0
+
+
+
+
+
+fun Int.isMultiple(n: Int): Boolean = this%n == 0
+
+fun summul(factors: Set<Int>, end: Int) =
+    (1 until end).sumBy { num ->
+        if(factors.any {num.isMultiple(it)}) num
+        else 0
+    }
+
+
+
+
+
+
+
+
+
+
+
+

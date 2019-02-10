@@ -20,4 +20,14 @@ class sumofmultiplestest {
     fun `multiples of 3 or 5 up to 10`() {
         assertEquals(23, sumOfMultiples.sum(setOf(3, 5), 10))
     }
+
+    @Test
+    fun `multiples of 3 or 5 up to 20`() {
+        assertEquals(78, sumOfMultiples.sum(setOf(3, 5), 20))
+    }
+
+    @Test
+    fun `multiples of 3 or 5 up to 100`() {
+        assertEquals(2318, sumOfMultiples.sum(setOf(3, 5), 100))
+    }
 }
