@@ -32,6 +32,11 @@ class sumofmultiplestest {
     }
 
     @Test
+    fun `multiples of 3 or 5 up to 30`() {
+        assertEquals(78, sumOfMultiples.sum(setOf(3, 5), 50))
+    }
+
+    @Test
     fun `multiples of 3 or 5 up to 100`() {
         assertEquals(2318, sumOfMultiples.sum(setOf(3, 5), 100))
     }
