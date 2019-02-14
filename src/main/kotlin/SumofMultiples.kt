@@ -9,6 +9,7 @@ object sumOfMultiples {
              if (factors.any { n.isMultipleOf(it) }) n
              else 0
      }
+         //factors.any { endExclusive.isMultipleOf(it) }
 }
 
 fun Int.isMultipleOf(num: Int): Boolean = this%num == 0

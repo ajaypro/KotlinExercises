@@ -9,7 +9,7 @@ package secret
 Given the input 19, the function would return the array ["double blink", "wink"] because 19 is 10011 in binary.
 Notice that the addition of 16 (10000 in binary) has caused the array to be reversed.
  */
-object calculator {
+object Calculator {
 
     private val REVERSE_BIT_FLAG = 0b0001_0000
 
