@@ -1,5 +1,14 @@
 /**
  * @Author Ajay on 30-01-2019.
+ *
+ * "cabbage" should be scored as worth 14 points:
+
+3 points for C
+1 point for A, twice
+3 points for B, twice
+2 points for G
+1 point for E
+
  */
 
 // Get scrabble score of a word
