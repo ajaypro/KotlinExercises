@@ -9,6 +9,7 @@ object Luhn {
         if (stripped.length <= 1 || stripped.any { !it.isDigit() }) {
             return false
         }
+
         return stripped.map { it.toString().toInt() }
             .foldRight(emptyList<Int>()) { n, acc ->
                 /* if the accumulator size is odd, this is an even-indexed element (from right) */
